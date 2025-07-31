@@ -28,7 +28,8 @@ seca=1
 secc=0
 fight=0
 pods=0
-instr style_formpicture=55.jpg
+/* instr style_formpicture=55.jpg */
+image="55.jpg|Вірус"
 cor=0
 med1=0
 bd=0
@@ -320,7 +321,7 @@ end
 
 :Use_План
 imagetype=6
-image=54
+image="54.jpg|План будынка"
 end
 
 :6
@@ -734,7 +735,7 @@ end
 
 :Use_План2
 imagetype=6
-image=53
+image="53.jpg|Карта другога паверха"
 end
 
 :60
@@ -769,7 +770,8 @@ end
 pln Вы запісалі сваю гульню.
 inv- Чарнільная стужка
 save 59
-style_fontpicture=55.jpg
+/* style_fontpicture=55.jpg */
+image="55.jpg|Вірус"
 style_nonactivetext=Вірус
 music="1.ogg"
 goto 55
@@ -942,7 +944,8 @@ end
 :40
 inv- Чарнільная стужка
 save 40
-style_formpicture=55.jpg
+/* style_formpicture=55.jpg */
+image="55.jpg|Вірус"
 music="1.ogg"
 style_nonactivetext=Вірус
 goto 38
@@ -1034,7 +1037,8 @@ end
 pln Вы захавалі сваю гульню.
 inv- Чарнільная стужка
 save 19.1
-instr style_formpicture=55.jpg
+/* instr style_formpicture=55.jpg */
+image="55.jpg|Вірус"
 instr style_nonactivetext=Вірус
 music="1.ogg"
 goto 16
