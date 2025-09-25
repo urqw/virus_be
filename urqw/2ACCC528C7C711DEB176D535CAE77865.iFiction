@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>2ACCC528C7C711DEB176D535CAE77865</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Вірус</title>
+			<author>Terracon</author>
+			<language>be</language>
+			<firstpublished>2020-03-27</firstpublished>
+			<genre>Фантастыка</genre>
+			<group>URQ</group>
+			<description>Вы крочыце па калідоры лабараторыі. Праходзіце міма непрацуючага экрана. У яго серабрыстай, крыху пукатай  паверхні люструецца ваша постаць у форме вайсковай аховы. На грудзях бялее бэйджык. Вы ведаеце, што на ім асабісты штрых-код і вашае імя "Ray". Чорт, акрамя ўласнага імя вы нічога больш пра сябе не памятаеце! Хто вы, дзе вы, што тут адбываецца? З усім гэтым вам давядзецца разабрацца! На столі гудуць моцныя светлавыя панэлі.<br/>Пераклад з рускай мовы: Veresk (fantom199ii@gmail.com)</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#virus_be</url>
+			<authoremail>danil1@mailru.com, fantom199ii@gmail.com</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
