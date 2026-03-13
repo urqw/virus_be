@@ -4,7 +4,7 @@ Text-based game "The Virus" (Belarusian: "Вірус") by Terracon, translated b
 
 The game is in Belarusian, developed for RipURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#virus_be). See the original Russian version [here](https://github.com/urqw/virus).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=virus_be). See the original Russian version [here](https://github.com/urqw/virus).
 
 The game was first published on March 27, 2020.
 
